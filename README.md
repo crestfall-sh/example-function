@@ -1,1 +1,5 @@
-# functions-template
+# example-function
+
+#### License
+
+MIT
