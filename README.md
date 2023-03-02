@@ -1,4 +1,4 @@
-# example-function
+# example-functions
 
 #### License
 
